@@ -1,0 +1,28 @@
+[16-Aug-2022 09:33:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/sirtadm/public_html/hackathon/home.php:120
+Stack trace:
+#0 {main}
+  thrown in /home/sirtadm/public_html/hackathon/home.php on line 120
+[16-Aug-2022 09:35:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/sirtadm/public_html/hackathon/home.php:120
+Stack trace:
+#0 {main}
+  thrown in /home/sirtadm/public_html/hackathon/home.php on line 120
+[16-Aug-2022 09:38:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/sirtadm/public_html/hackathon/home.php:120
+Stack trace:
+#0 {main}
+  thrown in /home/sirtadm/public_html/hackathon/home.php on line 120
+[16-Aug-2022 09:38:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/sirtadm/public_html/hackathon/home.php:120
+Stack trace:
+#0 {main}
+  thrown in /home/sirtadm/public_html/hackathon/home.php on line 120
+[16-Aug-2022 09:38:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/sirtadm/public_html/hackathon/home.php:120
+Stack trace:
+#0 {main}
+  thrown in /home/sirtadm/public_html/hackathon/home.php on line 120
+[16-Aug-2022 09:38:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/sirtadm/public_html/hackathon/home.php:120
+Stack trace:
+#0 {main}
+  thrown in /home/sirtadm/public_html/hackathon/home.php on line 120
+[25-Aug-2022 14:36:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/sirtebhopal/hackathon.sirtebhopal.ac.in/home.php:120
+Stack trace:
+#0 {main}
+  thrown in /home/sirtebhopal/hackathon.sirtebhopal.ac.in/home.php on line 120
